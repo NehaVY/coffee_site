@@ -40,3 +40,4 @@ function showRecipe(beverage) {
 
     recipeSection.style.display = "block";
 }
+module.exports = { showRecipe };

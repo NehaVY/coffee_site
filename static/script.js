@@ -76,3 +76,5 @@ function showRecipe(beverage) {
 
     recipeSection.style.display = "block";
 }
+// Export the function for testing
+module.exports = { showRecipe };
